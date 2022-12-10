@@ -1,7 +1,7 @@
 {
   "name": "chatgpt",
   "version": "1.0.0",
-  "description": "Connect with Openai GPT3-5 bot",
+  "description": "Connect with Openai GPT3 bot",
   "dependencies": {
     "discord.js": "^14.7.1",
     "node-fetch": "^2.6.7"

@@ -73,7 +73,7 @@ client.on('guildCreate', async (guild) => {
     };
 });
 
-//When have new message
+//When have new message 
 client.on('messageCreate', async (message) => {
     var content = message.content;
     if (content.length === 0) return;
